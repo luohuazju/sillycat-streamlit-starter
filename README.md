@@ -2,5 +2,5 @@
 Python Streamlit Web
 
 ```
-streamlit run example.py --server.port 8081
+streamlit run Home.py --server.port 8081
 ```
